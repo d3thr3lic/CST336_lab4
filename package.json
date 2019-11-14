@@ -1,0 +1,23 @@
+{
+  "name": "cst336_lab4",
+  "version": "1.0.0",
+  "description": "Solar System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3thr3lic/CST336_lab4.git"
+  },
+  "author": "Mitchell Saunders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3thr3lic/CST336_lab4/issues"
+  },
+  "homepage": "https://github.com/d3thr3lic/CST336_lab4#readme",
+  "dependencies": {
+    "ejs": "^2.7.2",
+    "express": "^4.17.1"
+  }
+}
